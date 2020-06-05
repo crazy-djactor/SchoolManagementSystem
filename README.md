@@ -16,7 +16,7 @@ Visit https://django-school-app.herokuapp.com/ for a live demo. The demo is upda
 It's best to install Python projects in a Virtual Enviroment. Once you have set up a VE, clone this project
 
 ```bash
-git clone https://github.com/adigunsherif/Django-School-Management-System.git
+git clone hhttps://github.com/crazy-djactor/SchoolManagementSystem.git
 ```
 Then
 
